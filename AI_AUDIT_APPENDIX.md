@@ -1,22 +1,26 @@
 # AI Audit Appendix (Assignment 04)
 
 ## Tool(s) Used
-- [Tool name + version] (e.g., ChatGPT, Claude, GitHub Copilot)
-- If none, write: **"No AI tools were used for this assignment."**
+- GitHub Copilot (GPT-5.2-Codex)
 
 ## Task(s) Where AI Was Used
-- [Specific task] (e.g., "Statsmodels OLS formula for ret ~ div12m_me")
+- Completed missing sections in assignment04_regression.py
+- Summarized regression outputs into assignment04_report.md
 
 ## Prompt(s)
-- [Exact prompt text]
+- "what else do i need to do in order to complete this assignment"
+- "yes can you complete the missing parts"
+- "yes run it please"
+- "yes"
 
 ## Output Summary
-- [What the AI suggested or generated]
+- Implemented OLS estimation, regression summary saving, plotting, and key-results printing.
+- Ran the script and used the regression summaries to fill the report template.
 
 ## Verification & Modifications (Disclose • Verify • Critique)
-- **Verify:** How you checked the output (e.g., ran the script, spot-checked regression table)
-- **Critique:** What was wrong/incomplete and why
-- **Modify:** What you changed in your final work
+- **Verify:** Ran assignment04_regression.py and checked that the Results/ files were created.
+- **Critique:** No issues found in the generated outputs; interpretations should be reviewed for accuracy.
+- **Modify:** Adjusted report wording for clarity after inserting values.
 
 ## If No AI Tools Used
 Write: "No AI tools were used for this assignment."
