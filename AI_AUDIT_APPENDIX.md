@@ -11,8 +11,6 @@
 - "what else do i need to do in order to complete this assignment"
 - "yes can you complete the missing parts"
 - "yes run it please"
-- "yes"
-
 ## Output Summary
 - Implemented OLS estimation, regression summary saving, plotting, and key-results printing.
 - Ran the script and used the regression summaries to fill the report template.
